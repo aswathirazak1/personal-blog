@@ -8,7 +8,7 @@ type = "blog"
 +++
 Half a day into unboxing my iPad air and I am totally fangirl-ing over this app. Moroccan inspired geometric art and mandalas that I 'pinterest' a hundred times over but never actually have the patience to sit down and make - I made one in less than an hour. Procreate is a total game-changer for digital artists. I haven't explored it in totality. But here are my first impressions -
 
-### **It makes you feel like the 4 year old version of you.**
+## **It makes you feel like the 4 year old version of you.**
 
 The gesture controlled actions are so beautifully designed - they become second nature really fast. My favourite is dragging and dropping color to fill - It's like that feeling when you first dipped your fingers in paint.
 
@@ -38,4 +38,4 @@ This was the thought on my mind that was haunting and thrilling all at once. I r
 
 But today, I feel that gap slowly tightening. Do I really need to draw perfect circles any more to create perfectly cylindrical perspectives? Do I really need to practice patience to draw mandalas?
 
-There is so much power in automation, and there is so much information and easy access to inspiration and references online today - unlike for my older professors. A tool like procreate enables the creative process without a lot of the friction that was hitherto between me and my potential creation. 
+There is so much power in automation, and there is so much information and easy access to inspiration and references online today - unlike for my older professors. A tool like procreate enables the creative process without a lot of the friction that was hitherto between me and my potential creation.
