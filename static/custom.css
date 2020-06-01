@@ -35,6 +35,5 @@
     align-items: flex-start;
 }
 .nav{
-    width:20%;
-    padding: 3rem;
+    padding-left: 4rem;
 }
