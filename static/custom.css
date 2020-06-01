@@ -22,5 +22,6 @@
 .nav-title{
     font-family: 'Beth Ellen', cursive;
     font-size: 2rem;
+    max-width:100px;
 
 }
