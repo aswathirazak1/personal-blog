@@ -5,7 +5,7 @@
     margin-bottom: .5rem;
 }
 
-.catalogue-summary .title {
+.catalogue-summary{
     margin-bottom: 0;
     Font-Family: 'Open Sans', Sans-Serif;
     Font-Size: 1rem;
@@ -40,12 +40,47 @@
     padding-left: 4rem;
 }
 
+.time{
+    margin-bottom: 0;
+    Font-Family: 'Open Sans', Sans-Serif;
+    Font-Size: 1rem;
+    line-height: 1.6rem;
+    max-width: 550px;
+}
 .post__body h1, .post__body h2, .post__body h3, .post__body h4, .post__body h5, .post__body h6 {
     padding-left: 0;
-    margin-bottom: 1.45rem;
-    line-height: 1.2;
+    margin-bottom: 0;
+    padding: 0.6rem;
+    padding-top: 2rem;
     font-Family: 'Raleway', Sans-Serif;
+    letter-spacing: 0;
 }
+
+.post__body h1 {
+    font-size: 2.4rem;
+    line-height: 2.8rem;
+    font-weight: 700;    
+}
+
+.post__body h2 {
+    font-size: 1.8rem;
+    font-weight: 700;   
+}
+
+.post__body h3 {
+    font-size: 1.2rem;
+    font-weight: 700; 
+}
+
+
 .post__body p {
     Font-Family: 'Open Sans', Sans-Serif;
+    font-size: 1.1rem;
+    line-height: 1.8rem;
+}
+
+.post_title h1{
+    font-size: 2.4rem;
+    line-height: 2.8rem;
+    font-weight: 700; 
 }
