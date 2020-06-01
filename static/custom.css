@@ -3,6 +3,7 @@
     font-Size: 1.9rem;
     line-height: 2.5rem;
     margin-bottom: .5rem;
+    max-width: 28rem;
 }
 
 .catalogue-summary{
@@ -32,6 +33,7 @@
 
 @media (min-width: 768px) {
     
+
 main{
     width: 85%;
     margin-left: 15%;
@@ -46,8 +48,9 @@ main{
     overflow: hidden;
     min-height: 300px;
     height: 60vh;
-    width: 85%;
+    width: 70%;
     margin: auto;
+    margin-top: 3rem;
 }
 
 
@@ -110,8 +113,11 @@ main{
     line-height: 1.8rem;
 }
 
-.post_title h1{
+.post_title {
+    font-Family: 'Raleway', Sans-Serif;
     font-size: 2.4rem;
     line-height: 2.8rem;
     font-weight: 700; 
 }
+
+
