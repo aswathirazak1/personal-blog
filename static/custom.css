@@ -27,3 +27,10 @@
     line-height: 2.2rem;
 
 }
+
+@media (min-width: 768px)
+.nav-container {
+    height: 100%;
+    width:20%;
+    flex-direction: column;
+    align-items: flex-start;
