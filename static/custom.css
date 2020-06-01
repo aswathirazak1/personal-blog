@@ -1,4 +1,12 @@
 .catalogue-title {
-    font-family: 'Crete Round';
+    font-Family: 'Raleway', Sans-Serif;
+    font-Size: 44px;
+    line-height: 50px;
     margin-bottom: .5rem;
+}
+
+.catalogue-summary {
+    margin-bottom: 0;
+    Font-Family: 'Open Sans', Sans-Serif;
+    Font-Size: 15px;
 }
