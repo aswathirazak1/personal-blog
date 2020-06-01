@@ -124,5 +124,7 @@ main{
    .nav{
    left: 8%;
     }  
-    
+    .post{
+   padding-right: 10%;
+    } 
 }
