@@ -2,4 +2,6 @@ baseURL = "/"
 languageCode = "en-us"
 theme = "tale-theme"
 title = "Aswathi Razak"
-css = "custom.css"
+
+[Params]
+css = ["custom.css"]
