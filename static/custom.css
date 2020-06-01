@@ -30,20 +30,17 @@
 
 }
 
-@media (min-width: 768px)
+@media (min-width: 768px) {
+    
 main{
     width: 85%;
     margin-left: 15%;
 }
 
-@media (min-width: 768px)
 .nav {
     width: 15%;
     border-right: none;
 }
-
-@media (min-width: 768px)
-
 
 .post-hero {
     overflow: hidden;
@@ -54,24 +51,24 @@ main{
 }
 
 
-@media (min-width: 768px)
 .catalogue .catalogue-item {
     max-width: 60rem;
     margin: auto;
     margin-left: 15%;
 }
 
-
-
-@media (min-width: 768px)
 .nav-container {
     height: 100%;
     flex-direction: column;
     align-items: flex-start;
 }
+
 .nav{
     padding-left: 4rem;
 }
+}
+
+
 
 .time{
     margin-bottom: 0;
@@ -80,6 +77,7 @@ main{
     line-height: 1.6rem;
     max-width: 550px;
 }
+
 .post__body h1, .post__body h2, .post__body h3, .post__body h4, .post__body h5, .post__body h6 {
     padding-left: 0;
     margin-bottom: 0;
