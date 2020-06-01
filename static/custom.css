@@ -82,9 +82,9 @@ main{
 }
 
 .post__body h1, .post__body h2, .post__body h3, .post__body h4, .post__body h5, .post__body h6 {
-    padding-left: 0;
     margin-bottom: 0;
     padding: 0.6rem;
+    padding-left: 0;
     padding-top: 2rem;
     font-Family: 'Raleway', Sans-Serif;
     letter-spacing: 0;
