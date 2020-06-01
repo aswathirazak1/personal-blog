@@ -5,7 +5,7 @@
     margin-bottom: .5rem;
 }
 
-.catalogue-summary {
+.catalogue-summary .title {
     margin-bottom: 0;
     Font-Family: 'Open Sans', Sans-Serif;
     Font-Size: 1rem;
@@ -44,4 +44,8 @@
     padding-left: 0;
     margin-bottom: 1.45rem;
     line-height: 1.2;
+    font-Family: 'Raleway', Sans-Serif;
+}
+.post__body p {
+    Font-Family: 'Open Sans', Sans-Serif;
 }
