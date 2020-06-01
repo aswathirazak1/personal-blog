@@ -31,7 +31,10 @@
 @media (min-width: 768px)
 .nav-container {
     height: 100%;
-    width:20%;
     flex-direction: column;
     align-items: flex-start;
+}
+.nav{
+    width:20%;
+    padding: 3rem;
 }
