@@ -1,5 +1,5 @@
 .catalogue-title {
-    font-Family: 'Raleway', Sans-Serif;
+    font-Family: "Playfair Display", serif;
     font-Size: 1.9rem;
     line-height: 2.5rem;
     margin-bottom: .5rem;
@@ -8,7 +8,7 @@
 
 .catalogue-summary{
     margin-bottom: 0;
-    Font-Family: 'Open Sans', Sans-Serif;
+    Font-Family: 'Raleway', Sans-Serif;
     Font-Size: 1rem;
     line-height: 1.6rem;
     max-width: 550px;
@@ -17,7 +17,7 @@
 .catalogue-time {
     display: block;
     margin-bottom: 1rem;
-    Font-Family: 'Open Sans', Sans-Serif;
+    Font-Family: 'Raleway', Sans-Serif;
     Font-Size: 1rem;
 }
 
@@ -69,6 +69,14 @@ main{
 .nav{
     padding-left: 4rem;
 }
+}
+
+.nav-title{
+   background: url(/images/roundlogo.svg);
+   background-repeat: no-repeat;
+   background-size: contain;
+   height: 60px;
+   width: 60px;
 }
 
 
