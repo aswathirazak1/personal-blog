@@ -27,16 +27,14 @@
     max-width: 200px;
     letter-spacing: -0.2rem;
     line-height: 2.2rem;
-    margin-top:1.2rem;
-
 }
 
 @media (min-width: 768px) {
     
 
 main{
-    width: 85%;
-    margin-left: 15%;
+    width: 75%;
+    margin-left: 25%;
 }
 
 .nav {
@@ -67,7 +65,7 @@ main{
 }
 
 .nav{
-    padding-left: 4rem;
+    padding: 0rem;
 }
 }
 
@@ -129,10 +127,9 @@ main{
 }
 
 @media (min-width: 1300px) {
-   .nav{
-   left: 8%;
-    }  
     .post{
    padding-right: 10%;
     } 
 }
+
+
