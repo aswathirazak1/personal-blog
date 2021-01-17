@@ -75,9 +75,7 @@ main{
     } 
 
 .nav_text{
-    position:fixed;
-    bottom: 30px;
-    left: 48px;
+    top: 90vh !important;
     transform: rotate(-90deg);
     }
     
