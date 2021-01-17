@@ -75,7 +75,7 @@ main{
     } 
 
 .nav_text{
-    top: 90vh !important;
+    bottom:50px;
     transform: rotate(-90deg);
     }
     
