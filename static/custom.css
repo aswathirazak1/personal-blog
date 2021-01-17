@@ -76,12 +76,13 @@ main{
 
 .nav_text{
 font-Family: "Playfair Display", serif;
-font-size:1.9rem;
+font-size:1.6rem;
     width:80vh;
     margin-top:20px !important;
     bottom:0px !important;
     transform: rotate(-90deg);
     transform-origin: 0px 0px;
+      font-weight:100;
     }
     
 }
@@ -92,6 +93,11 @@ font-size:1.9rem;
    background-size: contain;
    height: 60px;
    width: 60px;
+}
+
+.link_portfolio{
+    color: #FF7163;
+    font-weight: 900;
 }
 
 
