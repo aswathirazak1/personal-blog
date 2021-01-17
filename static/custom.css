@@ -67,6 +67,13 @@ main{
 .nav{
     padding: 0rem;
 }
+    
+.nav h1{
+    position:fixed;
+    top: 30px;
+    left: 48px;
+    } 
+    
 }
 
 .nav-title{
@@ -131,5 +138,7 @@ main{
    padding-right: 10%;
     } 
 }
+
+
 
 
