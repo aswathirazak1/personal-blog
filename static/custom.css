@@ -73,6 +73,13 @@ main{
     top: 30px;
     left: 48px;
     } 
+
+.nav_text{
+    position:fixed;
+    bottom: 30px;
+    left: 48px;
+    transform: rotate(-90deg);
+    }
     
 }
 
