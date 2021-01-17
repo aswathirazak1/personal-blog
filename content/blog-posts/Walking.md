@@ -6,6 +6,6 @@ author: Aswathi Razak
 hero: "/images/heather-shevlin-3B_NrzTjajc-unsplash.jpg"
 
 ---
-Hi
-
-Welcome to my blog
+hello, welcome to my blog. Just testing this out. :)  
+  
+Happy to have this space.
